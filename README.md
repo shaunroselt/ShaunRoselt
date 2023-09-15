@@ -10,7 +10,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaunroselt&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaunroselt&theme=github_dark) 
-
-
-
-![](https://komarev.com/ghpvc/?username=shaunroselt&style=flat-square)
