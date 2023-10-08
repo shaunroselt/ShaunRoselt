@@ -13,9 +13,10 @@
 # Languages
 [![Delphi](https://img.shields.io/badge/delphi-black?style=for-the-badge&logo=delphi)](https://github.com/shaunroselt)
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/shaunroselt)
-[![css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/shaunroselt)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/shaunroselt)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/shaunroselt)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/shaunroselt)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/shaunroselt)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/shaunroselt)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/shaunroselt)
 
